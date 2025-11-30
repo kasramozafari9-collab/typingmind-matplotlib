@@ -7,3 +7,5 @@ Example prompt:
 - Draw a sine wave with
 
 - Draw a bar chart with previous data in matplotlib
+
+- Draw a sine wave with
